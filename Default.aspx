@@ -227,9 +227,10 @@
                         <a href="Contact.aspx">Contact</a>
                     </div>
             </div>
-        <div>
-            <img src="assets/img/china-institute-of-orientalism-logo-version4.png" style="margin-left:44%; max-height:200px; padding-top:20px; width:auto;" />
-        </div>
+                <div class="row text-center">
+                    <img src="assets/img/china-institute-of-orientalism-logo-version4.png"  style ="max-height:25em; width:auto;"  />
+                </div>
+
     </section>
 
     <!--End Contact Section -->
